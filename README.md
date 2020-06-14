@@ -1,6 +1,6 @@
 ## Yaohui Chen
 
-You can use the [editor on GitHub](https://github.com/yaohuichen/HellowWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My research interests are in soft robotics and its applications in agriculture and healthcare. They encompass the design, fabrication, theoretical modelling, sensing and control of novel soft actuators and development of prototypes for real-world applications. I am particularly interested in exploring compliant mechanisms in a variety of structures, which enables compliant and safe actuation in robotic components. The goal of my research is develop practical and economic robotic systems that can achive safe human-robot interactions.   
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
